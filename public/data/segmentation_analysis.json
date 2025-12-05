@@ -1,0 +1,86 @@
+{
+  "Global": {
+    "By Cruise Type": {},
+    "By Duration": {},
+    "By Booking Channel": {
+      "Online": {
+        "Company Website": {},
+        "Third Party Website": {}
+      }
+    },
+    "By Category": {},
+    "By Region": {}
+  },
+  "North America": {
+    "By Cruise Type": {},
+    "By Duration": {},
+    "By Booking Channel": {
+      "Online": {
+        "Company Website": {},
+        "Third Party Website": {}
+      }
+    },
+    "By Category": {},
+    "By Region": {}
+  },
+  "Europe": {
+    "By Cruise Type": {},
+    "By Duration": {},
+    "By Booking Channel": {
+      "Online": {
+        "Company Website": {},
+        "Third Party Website": {}
+      }
+    },
+    "By Category": {},
+    "By Region": {}
+  },
+  "Asia Pacific": {
+    "By Cruise Type": {},
+    "By Duration": {},
+    "By Booking Channel": {
+      "Online": {
+        "Company Website": {},
+        "Third Party Website": {}
+      }
+    },
+    "By Category": {},
+    "By Region": {}
+  },
+  "Latin America": {
+    "By Cruise Type": {},
+    "By Duration": {},
+    "By Booking Channel": {
+      "Online": {
+        "Company Website": {},
+        "Third Party Website": {}
+      }
+    },
+    "By Category": {},
+    "By Region": {}
+  },
+  "Middle East": {
+    "By Cruise Type": {},
+    "By Duration": {},
+    "By Booking Channel": {
+      "Online": {
+        "Company Website": {},
+        "Third Party Website": {}
+      }
+    },
+    "By Category": {},
+    "By Region": {}
+  },
+  "Africa": {
+    "By Cruise Type": {},
+    "By Duration": {},
+    "By Booking Channel": {
+      "Online": {
+        "Company Website": {},
+        "Third Party Website": {}
+      }
+    },
+    "By Category": {},
+    "By Region": {}
+  }
+}
